@@ -6,3 +6,4 @@ Architecture
 Git, Jenkins, Docker, & kubernetes
 Some changes
 Architecture
+10 LPA
